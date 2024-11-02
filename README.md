@@ -20,5 +20,5 @@ app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })
 ```
-On the terminal run ** node server.js ** and open *localhost:3000* on your browser to see the home route.
+On the terminal run **node server.js** and open *localhost:3000* on your browser to see the home route.
 
